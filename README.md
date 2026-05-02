@@ -44,8 +44,7 @@ export default defineConfig([
 ```
 
 You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
+js
 // eslint.config.js
 import reactX from 'eslint-plugin-react-x'
 import reactDom from 'eslint-plugin-react-dom'
@@ -70,4 +69,7 @@ export default defineConfig([
     },
   },
 ])
-```
+
+<img width="1105" height="867" alt="Screenshot 2026-05-02 130333" src="https://github.com/user-attachments/assets/28754cd6-041c-47cb-b782-1b7c2601df03" />
+<img width="1091" height="859" alt="Screenshot 2026-05-02 130323" src="https://github.com/user-attachments/assets/0cb2870a-a23b-4004-aa05-9a993326152b" />
+
